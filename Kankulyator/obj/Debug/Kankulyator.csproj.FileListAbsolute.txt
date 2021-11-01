@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Kankulyator\Kankulyator\bin\Debug\Kankulyator.exe.config
+C:\Users\user\source\repos\Kankulyator\Kankulyator\bin\Debug\Kankulyator.exe
+C:\Users\user\source\repos\Kankulyator\Kankulyator\bin\Debug\Kankulyator.pdb
+C:\Users\user\source\repos\Kankulyator\Kankulyator\obj\Debug\Kankulyator.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Kankulyator\Kankulyator\obj\Debug\Kankulyator.Form1.resources
+C:\Users\user\source\repos\Kankulyator\Kankulyator\obj\Debug\Kankulyator.Properties.Resources.resources
+C:\Users\user\source\repos\Kankulyator\Kankulyator\obj\Debug\Kankulyator.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Kankulyator\Kankulyator\obj\Debug\Kankulyator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Kankulyator\Kankulyator\obj\Debug\Kankulyator.exe
+C:\Users\user\source\repos\Kankulyator\Kankulyator\obj\Debug\Kankulyator.pdb
